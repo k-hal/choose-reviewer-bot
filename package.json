@@ -19,7 +19,7 @@
     "hubot-shipit": "0.2.1",
     "hubot-slack": "4.10.0",
     "request": "2.88.2",
-    "underscore": "1.13.3"
+    "underscore": "1.13.4"
   },
   "engines": {
     "node": "16.15.x"
